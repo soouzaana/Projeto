@@ -5,7 +5,7 @@
 
 ## 📄 Sobre o projeto
 
-Esse projeto tem a finalidade de apresentar um card básico em HTML e CSS.
+Esse projeto tem a finalidade de apresentar um card básico em HTML e CSS para apresentação do projeto SISGHA.
 
 ## 💻 Ferramenta utilizada
 - [Visual Studio Code](https://code.visualstudio.com/)
